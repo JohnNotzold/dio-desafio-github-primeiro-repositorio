@@ -1,6 +1,8 @@
 body{
     background: #f7f7f7;
     font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
 }
 
 
@@ -10,6 +12,10 @@ body{
 #title{
     font-size: 40px;
     text-transform: uppercase;
+    padding: 10px;
+    border: 3px dashed #f37b0a;
+    border-radius: 5px;
+    
 }
 
 a {
@@ -19,6 +25,7 @@ a {
 .home_image{
     border: 1px solid #505050;
     border-radius: 50px;
+    width: 125px;
 }
 
 .post_title{
@@ -40,9 +47,11 @@ a {
     margin: 0px;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: center;
 }
 .post_image{
     margin-bottom: 15px;
+    width: 100px;
 }
 
 .contacts_list{
