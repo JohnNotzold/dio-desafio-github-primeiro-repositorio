@@ -1,12 +1,21 @@
 body{
     background: #f7f7f7;
+    font-family: Verdana;
 }
 
 
 #title, .subtitle, .post_title{
    color:#505050; 
 }
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+}
 
+a {
+    text-decoration: line-through;
+    color: #99098d
+}
 .home_image{
     border: 1px solid #505050;
     border-radius: 50px;
@@ -30,6 +39,7 @@ body{
 .post_content{
     margin: 0px;
     margin-bottom: 15px;
+    text-transform: capitalize;
 }
 .post_image{
     margin-bottom: 15px;
