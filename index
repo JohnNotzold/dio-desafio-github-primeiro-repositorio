@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Organizando os Estudos</title>
+    </head>
+    <body>
+        <header>
+            <img src="estudos.png" alt="Ícone fazendo alusão à estudos!" />
+            <h1>Melhores ideias escritas aqui</h1>
+        </header>
+        <section>
+            <header>
+                <h2>Posts</h2>
+            </header>
+            <article>
+                <header>
+                    <h3>Post #1</h3>
+                    <img src="editor_texto.png" alt="ícone fazendo alusão à editor de texto" />
+                </header>
+                <p>
+                    Esse <a href="https://www.markdownguide.org/basic-syntax/" target="_blank"> Link</a> ajuda para entender síntaxes básicas de MarkDown!
+                    
+                </p>
+            </article>
+        </section>
+        <footer>
+            <ul>
+                <li>
+                    <a href="mailto:profjohn.notzold@gmail.com" target="_blank">profjohn.notzold@gmail.com</a>
+                    
+                </li>
+                <li>
+                    <a href="https://github.com/JohnNotzold" target="_blank">GitHub</a>
+                </li>
+               
+            </ul>
+        </footer>
+    </body>
+</html>
