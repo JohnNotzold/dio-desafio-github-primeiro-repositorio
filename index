@@ -7,7 +7,7 @@
     <body>
         <header>
             <img src="estudos.png" alt="Ícone fazendo alusão à estudos!" />
-            <h1>Melhores ideias escritas aqui</h1>
+            <h1>Espaço destinado ao estudo dos cursos da <a href="https://web.dio.me/home" target="_blank">DIO</a>!</h1>
         </header>
         <section>
             <header>
